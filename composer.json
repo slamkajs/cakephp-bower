@@ -1,0 +1,28 @@
+{
+  "name": "fahad19/cakephp-bower",
+  "version": "1.0.0",
+  "description": "CakePHP Bower Integration",
+  "type": "cakephp-plugin",
+  "keywords": [
+    "cakephp",
+    "bower"
+  ],
+  "homepage": "http://github.com/fahad19/cakephp-bower",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fahad Ibnay",
+      "email": "fahad19@gmail.com",
+      "homepage": "http://fahad19.com",
+      "role": "Maintainer"
+    }
+  ],
+  "require": {
+    "composer/installers": "*"
+  },
+  "support": {
+    "email": "fahad19@gmail.com",
+    "issues": "https://github.com/fahad19/cakephp-bower/issues",
+    "source": "https://github.com/fahad19/cakephp-bower"
+  }
+}
